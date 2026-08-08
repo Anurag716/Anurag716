@@ -288,7 +288,7 @@ Supporting junior BCA students through an organized project guidance program foc
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anurag716/Anurag716/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Anurag716/Anurag716/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
 
