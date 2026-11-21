@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/anurag-soni-908528401/">
+<a href="https://www.linkedin.com/in/anurag716/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
 <a href="mailto:anuragsoni71206@gmail.com">
@@ -26,8 +26,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anurag716&style=for-the-badge&color=6c5ce7&labelColor=1a1a2e" />
-<img src="https://img.shields.io/github/followers/Anurag716?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e" />
+
 <img src="https://img.shields.io/github/stars/Anurag716?style=for-the-badge&color=7F5AF0&labelColor=1a1a2e" />
 
 </div>
